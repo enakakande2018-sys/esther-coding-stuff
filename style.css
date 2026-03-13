@@ -1,0 +1,32 @@
+
+.title{
+
+    font-size: 4.5rem;
+
+    color: blue;
+
+    font-family: sans-serif;
+
+    font-weight: bolder;
+
+    text-align: center;
+
+}
+
+.hero-section{
+
+    background-color: bisque;
+
+    margin-top: 1cm;
+
+    padding-top: 1cm;
+
+    padding-bottom: 1cm;
+
+    align-items: center;
+
+    align-content: center;
+
+    text-align: center
+
+}
